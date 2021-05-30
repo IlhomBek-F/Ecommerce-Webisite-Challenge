@@ -1,0 +1,122 @@
+[
+  [
+    {
+      "img": "../img/advert1.png",
+      "category": "Girls ",
+      "title": "World Best Brands"
+    },
+    {
+      "img": "../img/advert2.png",
+      "category": "Girls Clothing",
+      "title": "World Best Brands"
+    },
+    {
+      "img": "../img/advert3.png",
+      "category": "Girls Clothing",
+      "title": "World Best Brands"
+    }
+  ],
+  [
+    {
+      "img": "../img/pic1.jpg",
+      "category": "Boy's ",
+      "price": "40"
+    },
+    {
+      "img": "../img/pic2.jpg",
+      "category": "Boy's ",
+      "price": "50"
+    },
+    {
+      "img": "../img/pic3.jpg",
+      "category": "Boy's ",
+      "price": "80"
+    },
+    {
+      "img": "../img/pic4.jpg",
+      "category": "Boy's ",
+      "price": "100"
+    }
+  ],
+  [
+    {
+      "img": "../img/pic5.jpg",
+      "category": "Boy's ",
+      "price": "40"
+    },
+    {
+      "img": "../img/pic2.jpg",
+      "category": "Boy's ",
+      "price": "50"
+    },
+    {
+      "img": "../img/pic1.jpg",
+      "category": "Boy's ",
+      "price": "80"
+    },
+    {
+      "img": "../img/pic4.jpg",
+      "category": "Boy's ",
+      "price": "100"
+    },
+    {
+      "img": "../img/pic1.jpg",
+      "category": "Boy's ",
+      "price": "40"
+    },
+    {
+      "img": "../img/pic2.jpg",
+      "category": "Boy's ",
+      "price": "50"
+    },
+    {
+      "img": "../img/pic5.jpg",
+      "category": "Boy's ",
+      "price": "80"
+    },
+    {
+      "img": "../img/pic2.jpg",
+      "category": "Boy's ",
+      "price": "100"
+    },
+    {
+      "img": "../img/pic5.jpg",
+      "category": "Boy's ",
+      "price": "40"
+    },
+    {
+      "img": "../img/pic2.jpg",
+      "category": "Boy's ",
+      "price": "50"
+    },
+    {
+      "img": "../img/pic1.jpg",
+      "category": "Boy's ",
+      "price": "80"
+    },
+    {
+      "img": "../img/pic3.jpg",
+      "category": "Boy's ",
+      "price": "100"
+    }
+  ],
+  [
+    {
+      "name": "Will Smith",
+      "comment": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.Reiciendis exercitationem obcaecati neque libero iusto rerumconsectetur autem. Laboriosam, perferendis la",
+      "img": "../img/profile1.jpg",
+      "rating": ["fas fa-star"]
+    },
+    {
+      "name": "Will Smith",
+      "comment": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.Reiciendis exercitationem obcaecati neque libero iusto rerumconsectetur autem. Laboriosam, perferendis la",
+      "img": "../img/profile2.jpg",
+      "rating": ["fas fa-star"]
+    },
+    {
+      "name": "Will Smith",
+      "comment": "Lorem ipsum dolor, sit amet consectetur adipisicing elit.Reiciendis exercitationem obcaecati neque libero iusto rerumconsectetur autem. Laboriosam, perferendis la",
+      "img": "../img/profile3.jpg"
+    }
+  ]
+]
