@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "img": "../img/pic1.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "featured"
+    },
+    {
+      "img": "../img/pic2.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "trend"
+    },
+    {
+      "img": "../img/pic3.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "featured"
+    },
+    {
+      "img": "../img/pic4.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "trend"
+    },
+    {
+      "img": "../img/pic5.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "featured"
+    },
+    {
+      "img": "../img/pic6.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "recent"
+    },
+    {
+      "img": "../img/pic7.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "trend"
+    },
+    {
+      "img": "../img/pic8.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "recent"
+    },
+    {
+      "img": "../img/pic8.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "featured"
+    },
+    {
+      "img": "../img/pic9.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "special"
+    },
+    {
+      "img": "../img/pic10.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "special"
+    },
+    {
+      "img": "../img/pic11.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "special"
+    },
+    {
+      "img": "../img/pic12.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "recent"
+    },
+    {
+      "img": "../img/pic7.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "special"
+    },
+    {
+      "img": "../img/pic13.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "latest"
+    },
+    {
+      "img": "../img/pic13.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "trend"
+    },
+    {
+      "img": "../img/pic14.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "recent"
+    },
+    {
+      "img": "../img/pic8.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "latest"
+    },
+    {
+      "img": "../img/pic15.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "latest"
+    },
+    {
+      "img": "../img/pic1.png",
+      "title": "Man Casual Shoe",
+      "price": "$300",
+      "category": "latest"
+    }
+  ]
+}
