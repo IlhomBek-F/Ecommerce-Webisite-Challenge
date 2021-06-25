@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./style.css" />
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shopping Card</title>
+  </head>
+  <body>
+    <nav>
+      <div class="nav-responsive">
+        <img src="./images/phone-icon3.png" class="logo" id="logo" />
+        <div class="nav-search">
+          <a href="#"><i class="fas fa-search" id="find"></i></a>
+          <input
+            type="text"
+            id="search"
+            placeholder="Search your items, brands"
+            autocomplete="off"
+          />
+        </div>
+        <div class="access">
+          <a href="#" id="notification"><i class="fa fa-bell"></i></a>
+          <a href="#" id="cart"><i class="fa fa-shopping-cart"></i></a>
+          <a href="#" id="bars"><i class="fa fa-bars"></i></a>
+          <a href="#" id="account"><i class="fa fa-user-circle"></i></a>
+        </div>
+      </div>
+    </nav>
+
+    <!--Main section-->
+
+    <div id="main">
+      <!-- category section-->
+
+      <div id="categories"></div>
+      <!-- latest smartphones section -->
+      <section class="categories">
+        <div class="title-container">
+          <h1 id="title">Latest Phones</h1>
+          <button type="button" id="item-btn">View All</button>
+        </div>
+        <div class="card"></div>
+      </section>
+      <!-- Redmi smartphones section -->
+      <section class="categories">
+        <div class="title-container">
+          <h1 id="title">Redmi Phones</h1>
+          <button type="button" id="item-btn">View All</button>
+        </div>
+        <div class="card redmi"></div>
+      </section>
+      <!-- Realme smartphones section -->
+      <section class="categories">
+        <div class="title-container">
+          <h1 id="title">Realmi Phones</h1>
+          <button type="button" id="item-btn">View All</button>
+        </div>
+        <div class="card realme"></div>
+      </section>
+      <!-- Oppo smartphones section -->
+      <section class="categories">
+        <div class="title-container">
+          <h1 id="title">Oppo Phones</h1>
+          <button type="button" id="item-btn">View All</button>
+        </div>
+        <div class="card oppo"></div>
+      </section>
+      <!-- Samsung smartphones section -->
+      <section class="categories">
+        <div class="title-container">
+          <h1 id="title">Samsung Phones</h1>
+          <button type="button" id="item-btn">View All</button>
+        </div>
+        <div class="card samsung"></div>
+      </section>
+
+      <!-- Footer section -->
+      <footer>
+        <p id="footer-title">Our support team</p>
+        <div class="footer">
+          <div class="support">
+            <ul>
+              <h3>Know about Us</h3>
+              <li><a href="#" id="about">Know Us</a></li>
+              <li><a href="#" id="refund-policy">Refund Policy</a></li>
+              <li><a href="#" id="policy">Our Policy</a></li>
+              <li><a href="#" id="return-product">How to Return ?</a></li>
+              <li><a href="#" id="terms">Terms & Conditions</a></li>
+              <li><a href="#" id="privacy">Privacy Policy</a></li>
+            </ul>
+          </div>
+
+          <div class="social-media">
+            <ul>
+              <h3>Contact Us</h3>
+              <li>
+                <i class="fab fa-facebook"></i
+                ><a href="#" id="facebook">Facebook</a>
+              </li>
+              <li>
+                <i class="fab fa-twitter"></i
+                ><a href="#" id="Twitter">Twitter</a>
+              </li>
+              <li>
+                <i class="fab fa-instagram"></i
+                ><a href="#" id="instagram">Instagram</a>
+              </li>
+              <li>
+                <i class="fab fa-telegram"></i
+                ><a href="#" id="telegram">Telegram</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="address">
+            <h3>office Address</h3>
+            <p>Building Ashiama , Cubbon Park,</p>
+            <p>Bengaluru , 560103,</p>
+            <p>Karnatka , India</p>
+            <p>Phone No: 12343454656</p>
+          </div>
+        </div>
+
+        <div id="copyright">
+            <p>&#169 : 2020 MobileKart.com All Right Reserved</p>
+        </div>
+      </footer>
+    </div>
+
+    <!-- details page-->
+
+    <div id="details-id">
+        <div class="details">
+            <div class="item-details">
+                <div class="image-container">
+                    <img id="detail-img" src="./images/redmi9 (1).jpg" />
+                </div>
+                <div class="details-card">
+                    <h2 id="detail-title"></h2>
+                <h4 id="detail-price"></h4>
+                <p id="you-save">You save : $ 20</p>
+                <p id="delivery"><strong>Delivery: In 3 - 4 days</strong></p>
+                <p id="spec"><strong>Specification :</strong>
+                    <ul>
+                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio ipsa aliquam odio modi obcaecati iusto consectetur voluptatum tempore doloribus incidunt.</li>
+                    <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita, asperiores fugiat doloremque amet alias a.</li>
+                    <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate ipsum corporis veritatis temporibus natus voluptatem omnis magnam facilis ut cumque.</li>
+                </ul>
+            </p>    
+            <button id="card-add" >Add to Cart</button>
+            <button id="back">back</button>
+            </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- cart list section -->
+    <div id="cart-container">
+        <p id="cart-title">Your <strong>Cart</strong></p>
+        <div id="empty-cart">
+            <h1>Your Cart is Empty...</h1>
+        </div>
+        <div id="cart-with-items">
+            <div class="cart-column">
+                <h3>Products</h3>
+               <h3>Products Name</h3>
+               <h3>Total</h3>
+               <h3>Quantity</h3>
+               <h3>Remove</h3>
+            </div>
+            <div id="item-body">
+
+            </div>
+            <div id="total">
+                <h3 id="total-items">Quantity</h3>
+                <h2 id="total-amount">Amount</h2>
+                <h3 id="you-saved">You saved</h3>
+            </div>
+        </div>
+    </div>
+
+    
+    <script src="./loadProduct.js"></script>
+  </body>
+</html>

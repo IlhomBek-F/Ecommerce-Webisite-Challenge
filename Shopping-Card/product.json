@@ -1,0 +1,154 @@
+{
+  "product": [
+    {
+      "img": "./images/redmi note 8C.jpg",
+      "name": "Xiaomi",
+      "category": "option"
+    },
+    {
+      "img": "./images/vivo1.jpg",
+      "name": "Oppo",
+      "category": "option"
+    },
+    {
+      "img": "./images/realmeX20pro.jpg",
+      "name": "Realme",
+      "category": "option"
+    },
+    {
+      "img": "./images/samsGalaxyNote20.jpg",
+      "name": "Samsung",
+      "category": "option"
+    },
+    {
+      "img": "./images/redmi note 8C.jpg",
+      "name": "Xiaomi",
+      "category": "option"
+    },
+    {
+      "img": "./images/redmi note 8C.jpg",
+      "name": "Xiaomi",
+      "category": "option"
+    },
+    {
+      "img": "./images/samsGalaxyNote20.jpg",
+      "name": "Samsung Galaxy Note 20 Ultra 5G",
+      "price": 190,
+      "category": "latest"
+    },
+    {
+      "img": "./images/oppofindX2.jpg",
+      "name": "OPPo find X2 (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 240,
+      "category": "latest"
+    },
+    {
+      "img": "./images/realmeX20pro.jpg",
+      "name": "Realme X20 Pro (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 190,
+      "category": "latest"
+    },
+    {
+      "img": "./images/samsGalaxyNote20.jpg",
+      "name": "Samsung Galaxy Note 20 Ultra 5G",
+      "price": 300,
+      "category": "latest"
+    },
+    {
+      "img": "./images/redminote8.jpg",
+      "name": "Redmi Note 8  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 200,
+      "category": "redmi"
+    },
+    {
+      "img": "./images/redminote9.jpg",
+      "name": "Redmi Note 9  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 220,
+      "category": "redmi"
+    },
+    {
+      "img": "./images/redmi8.jpg",
+      "name": "Redmi Note 8A  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 160,
+      "category": "redmi"
+    },
+    {
+      "img": "./images/redmi9.jpg",
+      "name": "Redmi 9  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 100,
+      "category": "redmi"
+    },
+    {
+      "img": "./images/realme C11.jpg",
+      "name": "Realme C11  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 270,
+      "category": "realme"
+    },
+    {
+      "img": "./images/realmeNarzo.jpg",
+      "name": "Realme Narzo 20  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 320,
+      "category": "realme"
+    },
+    {
+      "img": "./images/realme7i.jpg",
+      "name": "Realme 7i  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 160,
+      "category": "realme"
+    },
+    {
+      "img": "./images/realmeC15.jpg",
+      "name": "Realme C15  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 250,
+      "category": "realme"
+    },
+    {
+      "img": "./images/oppoA31.jpg",
+      "name": "Oppo A31 (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 320,
+      "category": "oppo"
+    },
+    {
+      "img": "./images/oppA5s.jpg",
+      "name": "OPPO A55  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 320,
+      "category": "oppo"
+    },
+    {
+      "img": "./images/oppof17.jpg",
+      "name": "OPPO F17  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 160,
+      "category": "oppo"
+    },
+    {
+      "img": "./images/oppoA15.jpg",
+      "name": "OPPO A15  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 330,
+      "category": "oppo"
+    },
+    {
+      "img": "./images/samgalaxyM01.jpg",
+      "name": "Samsung Galaxly M01(Flame Red, 6GB RAM, 128GB storage)",
+      "price": 250,
+      "category": "samsung"
+    },
+    {
+      "img": "./images/samGalaxyM21.jpg",
+      "name": "Samsung Galaxy M21   (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 320,
+      "category": "samsung"
+    },
+    {
+      "img": "./images/samsGalaxyNote20.jpg",
+      "name": "Samsung Galaxy Note 20  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 560,
+      "category": "samsung"
+    },
+    {
+      "img": "./images/samGalaxys20+.jpg",
+      "name": "Samsung Galaxy S20+  (Flame Red, 6GB RAM, 128GB storage)",
+      "price": 600,
+      "category": "samsung"
+    }
+  ]
+}
